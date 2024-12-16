@@ -1,0 +1,16 @@
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\bin\Debug\BITk.exe.config
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\bin\Debug\BITk.exe
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\bin\Debug\BITk.pdb
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.csproj.AssemblyReference.cache
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Properties.Resources.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Signning.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.csproj.GenerateResource.cache
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.csproj.CoreCompileInputs.cache
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.exe
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.pdb
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Main.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Room.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Reservation.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Form1.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Form3.resources
+C:\Users\Hady JO\Desktop\Windowsform\BITk\BITk\obj\Debug\BITk.Form4.resources
